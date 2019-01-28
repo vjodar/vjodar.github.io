@@ -27,13 +27,6 @@
       }
     ]
   },
-  "IT Resume": [
-    {
-      "name": "Upcoming ICS graduate offering a strong academic background in both general studies as well as IT combined with excellent internship experience from the Department of Public Safety as an MIS (Management of Informational Systems) assistant.",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -43,8 +36,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Perl",
+        "PHP",
+        "Classic ASP"
       ]
     },
     {
