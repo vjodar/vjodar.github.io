@@ -1,4 +1,12 @@
-As I was nearing the end of my senior year in highschool, I was unsure of what I wanted to study in college let alone do for a job in the future. I didn't really take much interest in any particular subject, rather being interested in just playing video games on my computer. This and the notion that kept popping up in my searches for fields of study: "programmer jobs are in high demand!" lead me to decide on software development as a starting point, if nothing else, when entering college and nearing the workforce.
+---
+layout: essay
+type: essay
+title: Developing a Future
+date: 2019-01-27
+labels:
+  - Software Development
+---
+ As I was nearing the end of my senior year in highschool, I was unsure of what I wanted to study in college let alone do for a job in the future. I didn't really take much interest in any particular subject, rather being interested in just playing video games on my computer. This and the notion that kept popping up in my searches for fields of study: "programmer jobs are in high demand!" lead me to decide on software development as a starting point, if nothing else, when entering college and nearing the workforce.
 
 It wasn't exaclty love at first sight. My first real introduction to programming was Java thorugh ICS 111, and although I am glad that it was my first language, I was nonetheless very confused as I found learning programming to be a radical departure from more traditional classes. I barely passed the class and didn't feel like I learned nearly enough to move on, so I took the class again. The second time around was as different as night and day. Everything was beginning to click and I soon found myself enjoying the challenge of programming every week. Like solving a difficult puzzle, I enjoyed the frustrating lows and huge highs of solving problems through coding. Moreover, I began to understand the potential for limitless creativety and utility in programming. Fast forward to today and I have experience with nearly ten different languages and look forward to working in software development.
 
