@@ -27,6 +27,22 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "software development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
   "skills": [
     {
       "name": "Languages and Frameworks",
