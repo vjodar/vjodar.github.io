@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "software development",
+      "name": "Software Development",
       "keywords": [
       ]
     },
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -102,7 +102,8 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone and in person",
         "Answer phone and email responses to the ITS Help Desk",
-        "Assist students setup UH account or resolve issues pertaining to UH account"
+        "Assist students setup UH account or resolve issues pertaining to UH account",
+        "Maintain and repair computers in classrooms, computer labs, and faculty/staff offices"
       ]
     }
   ],
