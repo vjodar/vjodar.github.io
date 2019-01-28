@@ -65,7 +65,7 @@
       "keywords": [
         "WindowsOS",
         "MacOS",
-        "Android"
+        "Android",
         "Linux",
         "Git/GitHub",
         "IntelliJ",
@@ -79,8 +79,7 @@
       "area": "Information and Computer Science (Awarded Fall 2018)",
       "studyType": "A.S.",
       "gpa": "3.75",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -89,8 +88,7 @@
       "startDate": "2016-01-01",
       "endDate": "Present",
       "gpa": "3.75",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
