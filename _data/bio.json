@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "science",
+      "name": "Mathematics and Science",
       "keywords": [
       ]
     },
@@ -101,22 +101,23 @@
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone and in person",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer phone and email responses to the ITS Help Desk",
+        "Assist students setup UH account or resolve issues pertaining to UH account"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Member of Leeward Community College Honor Society",
+      "date": "2015"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Member of Phi Theta Kappa Honor Society",
+      "date": "2016"
+    }
+    {
+      "title": "Leeward Community College Dean's List",
+      "date": "2017"
     }
   ],
   "references": [
