@@ -46,11 +46,12 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "WindowsOS",
         "MacOS",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "IntelliJ",
+        "Jgrasp"
       ]
     }
   ],
