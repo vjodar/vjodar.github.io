@@ -32,14 +32,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Java",
         "C",
         "C++",
-        "Java",
         "Javascript",
         "Python",
         "Perl",
         "PHP",
-        "Classic ASP"
+        "HTML & CSS"
       ]
     },
     {
@@ -48,21 +48,30 @@
       "keywords": [
         "WindowsOS",
         "MacOS",
+        "Android"
         "Linux",
         "Git/GitHub",
         "IntelliJ",
-        "Jgrasp"
+        "Microsoft Access"
       ]
     }
   ],
   "education": [
     {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Information and Computer Science (Awarded Fall 2018)",
+      "studyType": "A.S.",
+      "gpa": "3.75",
+      "courses": [
+      ]
+    }
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.75",
       "courses": [
       ]
     }
