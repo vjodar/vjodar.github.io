@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Advanced Beginner's Language
-date: 2019-01-16
+date: 2019-09-06
 labels:
   - Programming
   - Learning
