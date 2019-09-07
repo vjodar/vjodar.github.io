@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/engine-diagram.png
-title: Engine Valve Cover and Gasket Replair
+title: Engine Valve Cover and Gasket Repair
 date: 2019-06-09
 labels:
   - Vehicle Repair
