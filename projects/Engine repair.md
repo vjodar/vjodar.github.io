@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/85398458005_edf1174686f2ebd6e081_512.png
+image: images/engine-diagram.png
 title: Engine Valve Cover and Gasket Replair
 date: 2019-06-09
 labels:
