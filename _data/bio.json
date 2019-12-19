@@ -6,7 +6,7 @@
     "email": "vjodar@hawaii.edu",
     "phone": "",
     "website": "https://vjodar.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96792",
@@ -56,7 +56,11 @@
         "Python",
         "Perl",
         "PHP",
-        "HTML & CSS"
+        "HTML & CSS",
+        "Semantic UI",
+        "ReactJS",
+        "Meteor",
+        "Node & NPM"
       ]
     },
     {
