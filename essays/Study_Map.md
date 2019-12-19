@@ -6,6 +6,7 @@ date: 2019-11-05
 labels:
   - Software Engineering
   - Meteor
+draft: true
 ---
 
 #### Overview (including “The problem” and “The solution”)
