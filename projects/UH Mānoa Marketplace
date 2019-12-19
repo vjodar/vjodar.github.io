@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/85398458005_edf1174686f2ebd6e081_512.png
+image: images/Thumbnail.png
 title: UH Mānoa Marketplace
 date: 2019-12-19
 labels:
@@ -10,7 +10,7 @@ labels:
   - Meteor Framework
 ---
 # UH Mānoa Marketplace
-### Image of webapp landing page goes here
+<img src='/images/Thumbnail'/>
 UH Mānoa Marketplace is a web application developed by myself and a team of four other developers during the Spring 2019 semester while taking a software engineering course. The application is an online trading hub where students, faculty, and staff of the UH schools system can buy and sell personal items online. Sellers simply post an image and information about the items they want to sell, then buyers can browse the online catalog of postings and contact the sellers to setup an exchange. This application is great for students at all stages of their academic career. From those that are graduating or otherwise leaving who want to get rid of their things, to those who want to purchase a textbook for an upcoming semester at a more affordable price, or even those who just want to shop around. This application makes online shopping as a UH member simple an intuitive.
 
 ## Tranding Page
